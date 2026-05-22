@@ -10,8 +10,6 @@ Computer Science learner and builder. I keep notes, projects, and technical writ
 ## Featured
 
 - [春雨的笔记本](https://springrain-i.github.io): technical notes, blog posts, and project reviews.
-- [GitHub Profile Maintenance](https://springrain-i.github.io/notes/github-profile): how this profile is structured.
-- [Rebuilding My Personal Site](https://springrain-i.github.io/blog/rebuild-this-site): notes on the VitePress rebuild.
 
 ## Languages and Tools
 
